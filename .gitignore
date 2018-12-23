@@ -1,0 +1,6 @@
+*
+!*.sav
+!*.sn*
+!*.gbc
+!*.rtc
+!.gitignore
